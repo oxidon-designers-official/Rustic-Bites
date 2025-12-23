@@ -96,7 +96,3 @@
     
 })(jQuery);
 
-function togglePopup() {
-  const popup = document.getElementById("orderPopup");
-  popup.classList.toggle("active");
-}
